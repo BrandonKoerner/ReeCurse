@@ -1,0 +1,8 @@
+#!lang cursed
+
+(+ 24 5)
+
+'(fart . ())
+(lambda (a b) (+ a b))
+
+`(fart ,(+ a (cons a b)) . poo)
